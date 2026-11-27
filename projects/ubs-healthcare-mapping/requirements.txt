@@ -5,3 +5,5 @@ matplotlib>=3.8
 pyreaddbc>=2.0.4
 pysus>=2.6.4
 pyshp>=2.3,<3
+scipy>=1.11
+numpy>=1.24
