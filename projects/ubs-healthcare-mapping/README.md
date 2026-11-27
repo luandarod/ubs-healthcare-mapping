@@ -8,7 +8,7 @@ O resultado principal é um dashboard municipal e uma matriz de decisão. A leit
 
 ## Ver o projeto
 
-- [Dashboard interativo](https://luandarodrigues.github.io/luandarodrigues/dashboards/ubs-healthcare-mapping/)
+- [Dashboard interativo](https://luandarodrigues-portfolio.vercel.app/dashboards/ubs-healthcare-mapping/)
 - [Matriz de decisão municipal](TELEMEDICINE_DECISION_MATRIX.md)
 - [Ranking estadual de oportunidade](TELEMEDICINE_STATE_SUMMARY.md)
 - [Fase 5: precisão espacial](TELEMEDICINE_PRECISION_PHASE5.md)
